@@ -18,4 +18,6 @@ public abstract class Copier implements Runnable {
     }
 
     public abstract void run();
+
+    //// implement this run method
 }
